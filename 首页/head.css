@@ -76,7 +76,7 @@ html {
 /* ============================================================== */
 
 body {
-    background-color: white;
+    /* background-color: white; */
     height: 100%;
     width: 100%;
     overflow: hidden;
@@ -184,7 +184,7 @@ body {
 .main {
     height: 100px;
     width: 100%;
-    background: rgb(214, 199, 199);
+    /* background: rgb(214, 199, 199); */
     /* position: fixed; */
     /* margin-top: 60px; */
     /* z-index: 999; */
